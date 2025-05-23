@@ -1,0 +1,109 @@
+[ElevenLabs || Prime Voice AI](https://beta.elevenlabs.io/)
+
+[Podcast.mp3](attachment:d29051a7-5b8c-47fd-943c-a9f77e04a3ba:Podcast.mp3)
+
+Você é um roteirista de podcast, e vamos criar um roteiro de um podcast de filosofia do riso com standupcomedy, focado em comédia com psicanalise com foco mecanicas do humor e do riso, tecnicas básicas como setup e punch, tipos, etc... 
+
+o formato do roteiro deve ser
+[INTRODUÇÃO]
+[CURIOSIDADE 1]
+[CURIOSIDADE 2]
+[FINALIZAÇÃO]
+
+{REGRAS}
+
+- no bloco [INTRODUÇÃO] substitua por uma introdução iguais as introduções dos vídeos do canalcomo se fosse jung jovem vivendo nos momentos atuais
+- no bloco [CURIOSIDADE 1] substitua por uma curiosidade de estruturas do riso e neurociencia 
+- no bloco [CURIOSIDADE 2] sobre piadas famosas ou algo interessante que aconteceu por conta de uma piada 
+- no bloco [FINALIZAÇÃO] substitua por uma despedida cool com o final 'Valew galera, é nois' 
+
+- use termos de fácil explicação
+- O podcast vai ser apresentado somente por uma pessoa, chamada Jhonny Bieber 
+- O podcast deve ser curto
+
+{REGRAS NEGATIVAS}
+
+ 
+- Não ultrapasse 5 minutos de duração
+
+### ChatGPT said:
+
+Claro! Aqui está o roteiro completo do episódio piloto do seu podcast, no estilo "filosofia do riso com stand-up comedy e pitadas de psicanálise", apresentado por **Jhonny Bieber**. O tom é leve, engraçado e didático, com uma vibe meio "Jung jovem no século XXI".
+
+---
+
+### 🎙️ **EPISÓDIO 1: Por Que a Gente Ri? (E Por Que Às Vezes É De Nervoso)**
+
+---
+
+### [INTRODUÇÃO]
+
+> Fala, família do inconsciente!
+> 
+> 
+> Aqui quem fala é **Jhonny Bieber**, e se o Carl Jung tivesse um perfil no TikTok, ele estaria aqui, comentando: “O riso é a sombra sorrindo.”
+> 
+> Hoje a gente vai falar sobre **riso** — esse espasmo social que serve tanto pra quebrar o gelo quanto pra mascarar o trauma.
+> 
+> Já dizia Freud: **piada é pensamento que escapa pela porta dos fundos da consciência.**
+> 
+> E hoje eu quero te provar que o riso não é só piada — é **engenharia emocional** com prazo de validade instantâneo.
+> 
+
+---
+
+### [CURIOSIDADE 1: RISO E NEUROCIÊNCIA]
+
+> Sabia que a mesma área do cérebro que processa ameaças também reage a piadas?
+> 
+> 
+> É isso mesmo: o sistema límbico, que cuida das emoções, interpreta o *setup* como uma ameaça leve, e o *punchline* como uma solução inesperada.
+> 
+> Tipo:
+> 
+> **"Eu fui no psicólogo ontem. Ele falou que eu tenho mania de perseguição. Pelo menos foi o que eu ouvi escondido pela janela."**
+> 
+> A tensão sobe… e quando vem o absurdo, seu cérebro diz: “Não é um leão... é só uma piada.”
+> 
+> Resultado: **risada nervosa, e um alívio químico.**
+> 
+> A risada é um alarme que desarmou. É o cérebro dizendo: “ufa, não era sério”.
+> 
+
+---
+
+### [CURIOSIDADE 2: PIADA FAMOSA]
+
+> Agora segura essa:
+> 
+> 
+> Em 2005, pesquisadores britânicos fizeram uma votação global da **piada mais engraçada do mundo**.
+> 
+> A vencedora foi essa aqui:
+> 
+> **“Dois caçadores estão na floresta. Um deles cai no chão, sem respirar. O outro liga pro resgate: ‘Meu amigo morreu! O que eu faço?’ O atendente diz: ‘Calma, verifique se ele está morto.’ Ouve-se um tiro. O cara volta: ‘Ok, e agora?’”**
+> 
+> Essa piada funciona porque mistura **absurdo, surpresa e lógica interna**.
+> 
+> É quase um haikai da comédia: três frases, um morto, e o caos.
+> 
+> Detalhe: o experimento não testou o Brasil. Se testasse, provavelmente ganhava o meme do “**sou de humanas, mas sei quando tão me passando pra trás**”.
+> 
+
+---
+
+### [FINALIZAÇÃO]
+
+> Então é isso, galera…
+> 
+> 
+> O riso é o glitch da mente consciente. Uma falha temporária que revela a nossa humanidade.
+> 
+> Seja Freud, Jung ou seu tio do churrasco, todo mundo já usou piada como defesa, como ataque, ou como pedido de socorro disfarçado.
+> 
+> E no fim, rir é tipo entender o caos… só que sem precisar organizar nada.
+> 
+> Eu sou o **Jhonny Bieber**, e no próximo episódio a gente vai descobrir **por que o erro é o melhor amigo do comediante.**
+> 
+> **Valew galera, é nois.**
+>
